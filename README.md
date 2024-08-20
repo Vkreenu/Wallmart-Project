@@ -1,1 +1,4 @@
 # Wallmart-Project
+# Project Description:
+
+This project aims to analyze Walmart Inc.‘s customer purchase behavior, focusing on the purchase amount in relation to gender and other influencing factors. The objective is to determine if there is a significant difference in spending habits between male and female customers, particularly during Black Friday. With a dataset of 100 million customers (50 million male and 50 million female), the project will employ Exploratory Data Analysis (EDA) to uncover patterns and trends. Statistical methods, including ANOVA, sample t-tests, and chi-square tests, will be used to test the hypothesis that women spend more than men on Black Friday. The findings will provide actionable insights for Walmart’s management to tailor marketing strategies and optimize revenue.
